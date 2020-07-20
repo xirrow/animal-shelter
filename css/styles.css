@@ -1,0 +1,29 @@
+#column {
+    float: left;
+    text-align: center;
+    width: 33%;
+}
+
+#column1 {
+    text-align: center;
+    width: 33%;
+}
+
+#column2 {
+    float: right;
+    text-align: center;
+    width: 33%;
+}
+
+#decoration {
+    display: flex;
+    list-style-type: none;
+}
+
+img {
+    height: 250px;
+}
+
+#column2 a {
+    text-align: center;
+}
