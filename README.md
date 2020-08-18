@@ -15,6 +15,7 @@
 
 * HTML
 * CSS
+* JavaScript
 
 ### Copyright (c) 2020 **_Zack Worrix_**
 ### This is licensed under the MIT license
